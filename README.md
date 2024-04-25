@@ -6,3 +6,4 @@ the pycryptodome library for the base implementation of AES.
 
 ## Read about it
 There is a pdf file (writeup.pdf) which contains a write up of the entire project and the AES modes. You can view all the inputs and outputs for each of the modes with pictures in the pdf.
+- All modes were implemented using the diagrams from this website https://xilinx.github.io/Vitis_Libraries/security/2021.2/guide_L1/internals/cfb.html
